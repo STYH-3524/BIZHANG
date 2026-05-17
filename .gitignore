@@ -1,0 +1,19 @@
+# 忽略所有编译生成的 build 文件夹
+build/
+devel/
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略日志文件和本地历史
+*.log
+.vscode/
+
+# 忽略大文件或数据集
+*.pth
+*.bag
+*.pcd
+data/
+
+Documents/TensorRT-8.6.1.6/
