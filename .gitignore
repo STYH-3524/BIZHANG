@@ -16,4 +16,5 @@ __pycache__/
 *.pcd
 data/
 
+PX4-Autopilot
 Documents/TensorRT-8.6.1.6/
